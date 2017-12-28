@@ -13,7 +13,7 @@
     "plugin"
   ],
   "dependencies": {
-    "hologger-streamer": "git://github.com/pekebuda/hologger-streamer.git#v1.0.0"
+    "hologger-streamer": "^1.0.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
