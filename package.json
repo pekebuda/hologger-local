@@ -13,7 +13,7 @@
     "plugin"
   ],
   "dependencies": {
-    "hologger-streamer": "^1.0.0"
+    "hologger-streamer": "^1.2.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
