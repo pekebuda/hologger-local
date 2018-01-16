@@ -1,6 +1,6 @@
 # hologger-local
 
-Azure Local Streamer for Hologger
+Local Streamer for Hologger
 
 
 
@@ -17,7 +17,7 @@ $ npm install hologger-local
 ## Environmental variables
 
 ```bash
-LOCAL_LOG_LEVEL=
+HOLOGGER_LOCAL_LOG_LEVEL=
 ```
 
 Ademas, este modulo se ve condicionado indirecto por la fijacion de las siguientes 
